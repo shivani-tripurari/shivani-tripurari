@@ -1,0 +1,66 @@
+span{
+  font-style: italic;
+}
+body{
+  text-align: center;
+
+}
+h1{
+  position: relative;
+  top:50px;
+  font-size: 85px;
+  font-family: 'Yesteryear', cursive;
+}
+p{
+  position:relative;
+  top:20px;
+  font-size: 20px;
+}
+.mountain{
+  height:400px;
+  width:400px;
+}
+.intro{
+  font-size: 20px;
+}
+h2{
+color: #CA82FF;
+font-size: 35px;
+}
+.first{
+  column-gap: 40px;
+  font-size: 10px;
+  text-align: center;
+  position:relative;
+  left:0;
+  font-family: 'Exo', sans-serif;
+}
+h3{
+  color: #CA82FF;
+  font-size: 25px;
+}
+.knowme {
+  column-gap: 40px;
+  font-size: 10px;
+  text-align: left;
+  font-family: 'Exo', sans-serif;
+
+}
+hr{
+  border-style: dotted none none;
+border-color:black ;
+border-width: 7px;
+width: 100px;
+
+}
+.contact{
+  position:relative;
+  top: 200px;
+}
+.girl{
+  height:200px;
+  width:200px;
+}
+h4{
+  font-size: 25px;
+}
