@@ -3,9 +3,9 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" width="400" src="C:\Users\shiva\Downloads\coder.jpg">
 
-- 🌱 I’m currently learning **SQL,UI/UX Designing**
+- 🌱 I’m currently learning **SQL,UX Designing**
 
-- 💬 Ask me about **HTML,CSS,Java**
+- 💬 Ask me about **HTML,CSS,Javascript**
 
 - 📫 How to reach me **shivanitripurari07@gmail.com**
 
