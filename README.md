@@ -1,4 +1,7 @@
 
+<div class=banner>
+![moun](https://github.com/shivani-tripurari/shivani-tripurari/assets/96899982/3bf9aca0-0448-4135-9d8b-49acbcba5d69)
+</div>
 <h1 align="center">Hi 👋, I'm Shivani Tripurari</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" width="400" src="C:\Users\shiva\Downloads\coder.jpg">
