@@ -24,3 +24,4 @@
 
 
 
+[![shivani-tripurari's GitHub | Languages Over Time](https://stats.quine.sh/shivani-tripurari/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=shivani-tripurari)
