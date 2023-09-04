@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shivanitripurari07@gmail.com**
 
-- ⚡ Fun fact **People find me interesting**
+- ⚡ Fun fact **Coffee lover blending beans and existential dreams**
 
 
 # 💻 Tech Stack:
