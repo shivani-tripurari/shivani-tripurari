@@ -1,7 +1,7 @@
 
 ![new_banner](https://github.com/shivani-tripurari/shivani-tripurari/assets/96899982/cddd01bd-1a7a-4cbc-b9a3-2e2a5fd892f7)
 
-<h1 align="center">Hi 👋, I'm Shivani Tripurari</h1>
+<h1 align="center">Hi 👋, I'm Shivani Tripurari...</h1>
 
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" width="400" src="C:\Users\shiva\Downloads\coder.jpg">
