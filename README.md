@@ -6,11 +6,11 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" width="400" src="C:\Users\shiva\Downloads\coder.jpg">
 
-- 🌱 I’m currently learning **SQL, UX Designing**
+- 🌱 I’m currently learning **Node.js, MongoDB**
 
-- 💬 Ask me about **HTML,CSS,Javascript**
+- 💬 Ask me about **HTML,CSS,Javascript,React.js**
 
-- 📫 How to reach me **shivanitripurari07@gmail.com**
+- 📫 How to reach me **tripurarishivani12@gmail.com**
 
 - ⚡ Fun fact **Coffee lover blending beans and existential dreams**
 
