@@ -24,13 +24,13 @@ An aspiring **Full Stack Developer** with a passion for creating seamless and en
 
 
 ## 
-👩‍💻 I'm currently working on **Next.js, React.js, MongoDB, Firebase, Node.js, Express.js**
+👩‍💻 I'm currently working on - **Next.js, React.js, MongoDB, Firebase, Node.js, Express.js**
 
-🧠 I'm currently learning **Web3 (Solidity)**
+🧠 I'm currently learning - **Web3 (Solidity)**
 
-👯‍♀️ I'm looking to collaborate on projects related to **Crypto and Blockchain technologies**
+👯‍♀️ I'm looking to collaborate on projects related to - **Crypto and Blockchain technologies**
 
-💬 Ask me about **Frontend technologies, UX designing**
+💬 Ask me about - **Frontend technologies, UX designing**
 
 🌐 Get to know me - https://linktr.ee/shivanitripurari
 
