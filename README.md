@@ -3,16 +3,41 @@
 
 <h1 align="center">Hi 👋, I'm Tripurari Shivani...</h1>
 
-<h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" width="400" src="C:\Users\shiva\Downloads\coder.jpg">
+An aspiring **Full Stack Developer** with a passion for creating seamless and engaging web applications. My expertise lies in the **MERN stack**, complemented by a strong foundation in **front-end technologies**. Alongside I have a strong understanding of **core finance principles**, and I am dedicated to seamlessly blending them into **digital solutions**.
 
-- 🌱 I’m currently learning **Node.js, MongoDB**
 
-- 💬 Ask me about **HTML,CSS,Javascript,React.js**
+##  🎯 Skills
 
-- 📫 How to reach me **tripurarishivani12@gmail.com**
+💻**Frontend Development:** 
 
-- ⚡ Fun fact **Coffee lover blending beans and existential dreams**
+- *React.js, Next.js* : Building dynamic and interactive user interfaces.
+- *HTML, CSS, Tailwind CSS, Bootstrap* : Crafting responsive and aesthetically pleasing web designs.
+
+🛠**Backend Development:**
+
+- *MongoDB, Express.js, Node.js* : Developing robust and scalable server-side applications.
+
+📈**Additional Skills:**
+
+- *UX/UI Design* : As a UX designer I tend create user-friendly and visually appealing interfaces and code them to reality.
+- *Competitive Programming* : Proficient in C/C++ and JavaScript.
+
+
+## 
+👩‍💻 I'm currently working on **Next.js, React.js, MongoDB, Firebase, Node.js, Express.js**
+
+🧠 I'm currently learning **Web3 (Solidity)**
+
+👯‍♀️ I'm looking to collaborate on projects related to **Crypto and Blockchain technologies**
+
+💬 Ask me about **Frontend technologies, UX designing**
+
+🌐 Get to know me - https://linktr.ee/shivanitripurari
+
+📫 Ping me @tripurarishivani12@gmail.com
+
+🌱 Fun fact Coffee lover blending beans and existential dreams
+
 
 
 # 💻 Tech Stack:
