@@ -1,7 +1,7 @@
 
 ![new_banner](https://github.com/shivani-tripurari/shivani-tripurari/assets/96899982/cddd01bd-1a7a-4cbc-b9a3-2e2a5fd892f7)
 
-<h1 align="center">Hi 👋, I'm Tripurari Shivani...</h1>
+<h1 align="center">Hi 👋, I'm Shivani Tripurari ...</h1>
 
 👩‍💻An aspiring **Full Stack Developer** with a passion for creating seamless and engaging web applications. My expertise lies in the **MERN stack**, complemented by a strong foundation in **front-end technologies**. Alongside I have a strong understanding of **core finance principles**, and I am dedicated to seamlessly blending them into **digital solutions**.
 
